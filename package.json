@@ -1,0 +1,34 @@
+{
+    "name": "queicherius-extension-pack",
+    "displayName": "queicherius Extension Pack",
+    "description": "The extensions that I use in all my VS Code installations (mainly web development)",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+      "aaron-bond.better-comments",
+      "Shan.code-settings-sync",
+      "msjsdiag.debugger-for-chrome",
+      "mikestead.dotenv",
+      "file-icons.file-icons",
+      "esbenp.prettier-vscode",
+      "ms-vscode-remote.remote-ssh",
+      "ms-vscode-remote.remote-ssh-edit",
+      "xr0master.webstorm-intellij-darcula-theme",
+      "fabiospampinato.vscode-todo-plus",
+      "streetsidesoftware.code-spell-checker",
+      "MS-vsliveshare.vsliveshare-pack",
+      "eamodio.gitlens",
+      "WallabyJs.quokka-vscode",
+      "ms-vscode.vscode-typescript-tslint-plugin",
+      "Zignd.html-css-class-completion",
+      "Tyriar.sort-lines",
+      "ChakrounAnas.turbo-console-log",
+      "wmaurer.change-case",
+      "EditorConfig.EditorConfig"
+    ]
+}
