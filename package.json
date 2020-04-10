@@ -3,7 +3,7 @@
     "publisher": "queicherius",
     "displayName": "queicherius Extension Pack",
     "description": "The extensions that I use in all my VS Code installations (mainly web development)",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "repository": {
       "url": "https://github.com/queicherius/vscode-extentions"
     },
@@ -33,6 +33,7 @@
       "Tyriar.sort-lines",
       "ChakrounAnas.turbo-console-log",
       "wmaurer.change-case",
-      "EditorConfig.EditorConfig"
+      "EditorConfig.EditorConfig",
+      "xyz.local-history"
     ]
 }
