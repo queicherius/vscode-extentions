@@ -3,7 +3,7 @@
     "publisher": "queicherius",
     "displayName": "queicherius Extension Pack",
     "description": "The extensions that I use in all my VS Code installations (mainly web development)",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "repository": {
       "url": "https://github.com/queicherius/vscode-extentions"
     },
